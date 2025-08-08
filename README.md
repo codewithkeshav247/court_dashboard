@@ -51,11 +51,16 @@ Hence, the backend simulates the scraping logic using realistic placeholder valu
 - BeautifulSoup (Simulated parsing)
 - Selenium (used to test real court behavior)
 - chromedriver.exe *(Download separately from [official site](https://chromedriver.chromium.org/downloads))*
----
+
+## 🎥 Demo Video
+
+Watch the full demo here:  
+👉 [Click to Watch Demo Video](https://www.loom.com/share/7031eae1c3d24f078c758d6b9109fe24)
 
 ## 🚀 Setup Steps
 
 1. Clone or download this repo
 2. Install dependencies:
 ```bash
+
 pip install flask beautifulsoup4 selenium
